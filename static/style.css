@@ -1,0 +1,24 @@
+.sectionBox{
+  border: 1px solid red;
+  margin-top:20px;
+}
+
+.creator{
+  border: 1px solid green;
+}
+
+.seat{
+  height:50px;
+  width:50px;
+  margin: 10px 2px 10px 2px;
+  display: inline-block;
+  background-color:green;
+}
+
+.soldSeat{
+  height:50px;
+  width:50px;
+  margin: 10px 2px 10px 2px;
+  display: inline-block;
+  background-color:red;
+}

@@ -2,7 +2,7 @@
   "name": "boxoffice",
   "version": "1.0.3",
   "scripts": {
-    "dev": "DB= LEVEL=silly PORT=3333 nodemon dst/server.js"
+    "dev": "DB=boxoffice LEVEL=silly PORT=3700 nodemon dst/server.js"
   },
   "author": "Shawn Wilkinson",
   "license": "MIT",
